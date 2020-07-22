@@ -1,0 +1,109 @@
+.navbar-brand{
+  font-family: 'Pacifico', cursive;
+  font-size: 25px;
+}
+h1,h2,.first h3{
+  color: #e7305b;
+  font-weight: bold;
+    margin: 20px;
+}
+button{
+  color: white;
+  background-color: #e7305b;
+  margin: 20px;
+}
+.btn:hover{
+  color: white;
+  background-color: #e7305b;
+  font-weight: bold;
+
+}
+hr{
+  width: 50vw;
+  background-color: #e7305b;
+  height: 2px;
+}
+form{
+  width: 80vw;
+  text-align: left;
+
+  padding: 20px;
+  margin: auto;
+  margin-top: 20px;
+}
+body{
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+.icon-bar{
+  color: white;
+  background-color: white;
+}
+nav li{
+  list-style-type: none;
+}
+.two{
+  width: 70vw;
+  text-align: left;
+  margin: auto;
+}
+.brand{
+  color: white;
+}
+.row{
+  width: 80vw;
+  margin: auto;
+  font-size: 16px;
+}
+a:hover{
+  color: white;
+  text-decoration: underline;
+
+}
+a{
+  color: white;
+}
+.start{
+  margin-top: 70px;
+}
+
+nav, .rowL{
+  color: white;
+  background-color: #e7305b;
+}
+::-webkit-scrollbar {
+      width: 3px;
+    }
+    ul{
+      margin: 20px;
+    }
+.nav-item{
+  margin-right: 20px;
+  white-space: nowrap;
+   display: inline-block;
+    color: white;
+    font-size: 15px;
+}
+.nav{
+  float: right;
+  margin-right: 0;
+  list-style:none;
+  display: flex;
+
+}
+.nav-item:hover{
+  color: white;
+  font-size: 21px;
+  font-weight: bold;
+}
+.first{
+  margin-top: 70px;
+  background-image: url("smmbg1.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  min-height: 80vh;
+  color: #e7305b;
+
+  padding: 30px;
+ }
