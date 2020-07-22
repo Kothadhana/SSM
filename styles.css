@@ -1,6 +1,15 @@
 .navbar-brand{
   font-family: 'Pacifico', cursive;
   font-size: 25px;
+  text-decoration: underline;
+}
+@media only screen and (max-width: 700px)
+{
+  .navbar-brand{
+    font-family: 'Pacifico', cursive;
+    font-size: 18px;
+    text-decoration: underline;
+  }
 }
 h1,h2,.first h3{
   color: #e7305b;
