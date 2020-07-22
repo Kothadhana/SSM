@@ -7,9 +7,8 @@
 {
   .navbar-brand{
     font-family: 'Pacifico', cursive;
-    font-size: 18px;
-    text-decoration: underline;
-  }
+    font-size: 20px;
+     }
 }
 h1,h2,.first h3{
   color: #e7305b;
