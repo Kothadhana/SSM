@@ -7,15 +7,59 @@
 {
   .navbar-brand{
     font-family: 'Pacifico', cursive;
-    font-size: 20px;
-     }
+    font-size: 18px;
+    text-decoration: underline;
+  }
+}
+.two-two, .two-two .row{
+  margin: auto;
+}
+.two-two h1{
+  color: white;
+}
+.two-two{
+  background-color: #e7305b;
+
+  padding: 20px;
+}
+.row div img{
+
+  width: 25vw;
+  height: 25vw;
+  max-width: 100px;
+  max-height: 100px;
+}
+.slide{
+  padding: 70px;
+}
+
+.carousel-inner{
+  width: 60vw;
+    margin: auto;
+}
+.itemstwo
+{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+
+}
+.three h1{
+  color: white;
+
+}
+.three
+{
+  padding: 20px;
+  color: #fff;
+  background-color: #ff4c68;
 }
 h1,h2,.first h3{
   color: #e7305b;
   font-weight: bold;
     margin: 20px;
 }
-button{
+button, .btn{
   color: white;
   background-color: #e7305b;
   margin: 20px;
@@ -44,6 +88,12 @@ body{
   font-size: 18px;
   font-family: 'Noto Sans KR', sans-serif;
 }
+.four{
+  padding: 30px;
+}
+.four h3{
+  color: #e7305b;
+}
 .icon-bar{
   color: white;
   background-color: white;
@@ -51,11 +101,12 @@ body{
 nav li{
   list-style-type: none;
 }
-.two{
+.two, .two-one p{
   width: 70vw;
   text-align: left;
   margin: auto;
 }
+
 .brand{
   color: white;
 }
