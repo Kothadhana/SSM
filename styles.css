@@ -130,6 +130,7 @@ a{
 nav, .rowL{
   color: white;
   background-color: #e7305b;
+  border-bottom: black;
 }
 ::-webkit-scrollbar {
       width: 3px;
