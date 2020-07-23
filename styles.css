@@ -126,11 +126,13 @@ a{
 .start{
   margin-top: 70px;
 }
-
+.navbar{
+    border-bottom: 2px solid pink;
+}
 nav, .rowL{
   color: white;
   background-color: #e7305b;
-  border-bottom: 1px solid black;
+
 }
 ::-webkit-scrollbar {
       width: 3px;
